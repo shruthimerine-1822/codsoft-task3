@@ -20,4 +20,4 @@ This project challenged me to apply my basic knowledge of HTML, CSS, and JavaScr
 "To imbue the calculator with dynamic functionality, I utilized JavaScript to handle user input and perform calculations. Event listeners were implemented to capture button clicks, while if-else statements allowed the program to discern the selected mathematical operation. Operators and loops were employed to execute precise calculations, ensuring accuracy in the results displayed on the screen. JavaScript was crucial in making the calculator interactive and responsive to user actions, providing a seamless and efficient user experience." refer the code script.js
 
 
-the refernce photo of calculator is in folder task3 refernce photos
+the refernce photo of calculator is in folder task3 refernce photos 
